@@ -1,4 +1,4 @@
-# emeritus
+# Target-Architecture-is Visualizer
 Visualization of target architeture slogans. 
 
 # Usage
